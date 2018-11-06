@@ -1,1 +1,1 @@
-# remotework-desktop-public
+# Remotework Public Desktop app
